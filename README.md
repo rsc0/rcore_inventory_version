@@ -1,0 +1,1 @@
+# rcore_inventory_version
